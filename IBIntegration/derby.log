@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 02 14:27:21 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015b-c7d7-8446-000011cea1d0 
+on database directory memory:D:\Work_Document\WorkSpace\STSMyGit\IBIntegration\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/D:/Work_Program/Maven/mavenLocalRepository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=D:\Work_Document\WorkSpace\STSMyGit\IBIntegration
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
