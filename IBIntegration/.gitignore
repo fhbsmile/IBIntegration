@@ -3,11 +3,11 @@ target/
 
 ### STS ###
 .apt_generated
-.classpath
+#.classpath
 .factorypath
-.project
+#.project
 .settings
-.springBeans
+#.springBeans
 
 ### IntelliJ IDEA ###
 .idea
